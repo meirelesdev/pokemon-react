@@ -1,7 +1,7 @@
-# Exercícios/Conteúdos Semanas DevinHouse
+# Exercícios/Conteúdos DevinHouse Pokemon
 ---
 
-Este repositorio foi criado como parte do conteudos e exercicios aprendidos e desenvolvidos no curso DevinHouse apartir dos conhecimentos adiquiridos em React.
+Este repositorio foi criado como parte do conteudos e exercicios aprendidos e desenvolvidos no curso DevinHouse apartir dos conhecimentos adquiridos em React.
 
 - [Projeto Online Aqui](https://meirelesdev.github.io/pokemon-react/)
 <p align="center">	
